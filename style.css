@@ -1,5 +1,5 @@
 h1 {
-    color: green;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,4 +12,37 @@ img{
     max-width: 50%;
     max-height: 50%;
 
+}
+
+.column{
+    display:inline-block
+
+}
+
+.col1 {
+background-color: red;
+
+}
+.col2{
+    background-color: pink;
+}
+
+.title{
+    font-size: 45px;
+}
+
+.col1 h1{
+    color: white;
+}
+
+#one{
+    border: 5px solid black;
+}
+
+.col1 img{
+display: none;
+}
+h1.title{
+    font-size: 35pt;
+    
 }
