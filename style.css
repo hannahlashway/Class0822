@@ -44,5 +44,23 @@ display: none;
 }
 h1.title{
     font-size: 35pt;
-    
+   
+}
+
+ /**this is a comment**/
+    /**HERO SECTION**/
+.hero{
+    height: 100vh;
+    background-image: url("verner.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.intro{
+    position:absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
 }
