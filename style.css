@@ -64,3 +64,31 @@ h1.title{
     transform: translate(-50%, -50%);
 
 }
+/*about section*/
+.container {
+    max-width: 1200px;
+    display: black;
+    margin: auto;
+}
+
+.col-30{
+    width: 29%;
+
+}
+.col-70{
+    width: 69%;
+}
+
+.content{
+    padding-left: 20px;
+    padding-top: 40px;
+    vertical-align: top;
+}
+
+media screen and (max-width: 767px) {
+.column{
+    display:block;
+    width:100%;
+}
+}
+
